@@ -1,3 +1,13 @@
+# Bug Report
+
+**Tester Name:** Kareem Mohamed  
+**Project Name:** Demoblaze Application  
+**Version:** V1.0  
+
+---
+
+## Bug List
+
 | ID   | Title                                                                           | Steps to reproduce                                                                      | Test data                    | Expected results                                                                                                                            | Actual results                                                                                                  | Severity   | Priority   |   Attachments | Status   |
 |:-----|:--------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------|:-----------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------|:-----------|:-----------|--------------:|:---------|
 | B001 | Successful Purchase Request When Placing Order with Empty Cart                  | 1. Navigate to the Cart page.                                                           | N/A                          | An error message should appear indicating that the cart is empty and the order cannot be placed.                                            | A "Purchase Request Successful" message appears, despite the cart being empty.                                  | Critical   | High       |           N/A | New      |
