@@ -1,4 +1,4 @@
-# CA Challenge - Demoblaze Website
+# CA Challenge - Demoblaze/Petfinder Website
 
 This repository contains the solution for the CA challenge. The challenge consists of three main parts: creating a test plan, reporting defects, and automating test scenarios.
 
