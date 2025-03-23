@@ -17,7 +17,7 @@ This repository contains the solution for the CA challenge. The challenge consis
 - Deliverables:
   1. List of test ideas and bullet points for good coverage.
   2. Prioritization according to business impact.
-- TestPlan are listed in the **Test_Plan_Demoblaze.md** or/ **Test_Plan_for_Demoblaze_Website.docx** file.
+- TestPlan are listed in the **Test_Plan_for_Demoblaze_Website.md** or/ **Test_Plan_for_Demoblaze_Website.docx** file.
 
 
 ### Second Part: Bug Reporting
@@ -27,7 +27,7 @@ This repository contains the solution for the CA challenge. The challenge consis
   2. Reproduce steps
   3. Attachments (if needed)
   4. Severity and priority
-- Bugs are listed in the **Bug_Report_Demoblaze.xlsx** file.
+- Bugs are listed in the **Bug_Report_Demoblaze.md** or/ **Bug_Report_Demoblaze.xlsx** file.
 
 ### Third Part: Automated Testing
 - Developed automated test scripts for Petfinder registration and login scenarios.
